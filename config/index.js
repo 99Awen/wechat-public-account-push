@@ -20,7 +20,7 @@ export const config = {
       //{"name": "家公", "year": "1993", "date": "08-09", "type": 'new'},
     ],
     // 在一起的日子，格式同上
-    loveDate: "2022-05-21",
+    loveDate: "2022-05-21"
     // 结婚纪念日
     //marryDate: "2020-01-04"
     }
